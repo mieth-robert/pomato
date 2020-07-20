@@ -19,7 +19,7 @@ Related Publications
 Acknowledgments
 ---------------
 
-Richard and Robert would like to aknowledge the support of Reiner Lemoine-Foundation, the Danish Energy Agency and Federal Ministry for 
+Richard and Robert would like to acknowledge the support of Reiner Lemoine-Foundation, the Danish Energy Agency and Federal Ministry for 
 Economic Affairs and Energy (BMWi).
 Robert Mieth is funded by the Reiner Lemoine-Foundation scholarship. Richard Weinhold is funded by the Danish Energy Agency.
 The development of POMATO and its applications was funded by BMWi in the project “Long-term Planning and Short-term Optimization of the German Electricity System Within the European Context” (LKD-EU, 03ET4028A).
